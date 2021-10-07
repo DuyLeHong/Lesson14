@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson14</string>
+
+    <string name="facebook_app_id">867254034210039</string>
+    <string name="fb_login_protocol_scheme">fb867254034210039</string>
+
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAh90nd4rht0SdCkmbh0Y5UD0Ww_V47XNI</string>
+</resources>
